@@ -1,0 +1,36 @@
+body {
+  background-color: #191919;
+  display: table;
+  position: absolute;
+  height: 100%;
+  width: 100%
+}
+
+.main-container {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.bottom-offset {
+  padding-bottom: 25px;
+}
+
+.bottom-offset-min {
+  padding-bottom: 10px;
+}
+
+.page-offset {
+  padding-bottom: 70px;
+}
+
+.image {
+  max-width: 60%;
+}
+
+.image-min {
+  max-width: 30%;
+}
+
+.pull-more-right {
+  margin-left: 20px;
+}
